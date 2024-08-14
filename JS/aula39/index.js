@@ -14,7 +14,9 @@ let dVinte = random(1, 21);
 //console.log(dOito);
 //console.log(dDez);
 //console.log(dDoze);
+console.log(dVinte);
 
+console.log('#########')
 
 while (dVinte !== 20) {
     dVinte = random(1,21);
